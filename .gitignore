@@ -40,7 +40,11 @@ lerna-debug.log*
 .env.development.local
 .env.test.local
 .env.production.local
-.env.local
+.env.stag
+.env.prod
+postgres_data
+postgres
+
 
 # temp directory
 .temp
